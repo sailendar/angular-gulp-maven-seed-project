@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-gulp-maven-seed-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sailendar/angular-gulp-maven-seed-project",
+  "description": "A simple starter angularjs (1.5.x) app with common services and gulp tasks integrated with maven.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sailendar/angular-gulp-maven-seed-project.git"
+  },
+  "authors": [
+    "Sailendar Vantipalli <sailendar@gmail.com>"
+  ],
+  "keywords": [
+    "angularjs",
+    "gulp",
+    "maven",
+    "starter"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "angular": "^1.5.8",
+    "angular-translate": "^2.11.1",
+    "angularLocalStorage": "ngStorage#^0.3.2",
+    "lodash": "^4.14.1",
+    "angular-ui-router": "^0.3.1",
+    "angular-translate-loader-partial": "^2.11.1"
+  }
+}
